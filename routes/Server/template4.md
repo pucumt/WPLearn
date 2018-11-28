@@ -1,4 +1,4 @@
-var #Name# = require('../../models/#name#.js'),
+var #Name# = require('../../models/mysql/#name#.js'),
     auth = require("./auth"),
     checkLogin = auth.checkLogin;
 
